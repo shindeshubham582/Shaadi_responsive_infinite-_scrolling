@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/Shaadi_responsive_infinite-_scrolling/static/js/main.77804951.chunk.js",
+    "main.js.map": "/Shaadi_responsive_infinite-_scrolling/static/js/main.77804951.chunk.js.map",
+    "runtime-main.js": "/Shaadi_responsive_infinite-_scrolling/static/js/runtime-main.23638f75.js",
+    "runtime-main.js.map": "/Shaadi_responsive_infinite-_scrolling/static/js/runtime-main.23638f75.js.map",
+    "static/js/2.ac07e03b.chunk.js": "/Shaadi_responsive_infinite-_scrolling/static/js/2.ac07e03b.chunk.js",
+    "static/js/2.ac07e03b.chunk.js.map": "/Shaadi_responsive_infinite-_scrolling/static/js/2.ac07e03b.chunk.js.map",
+    "index.html": "/Shaadi_responsive_infinite-_scrolling/index.html",
+    "static/js/2.ac07e03b.chunk.js.LICENSE.txt": "/Shaadi_responsive_infinite-_scrolling/static/js/2.ac07e03b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.23638f75.js",
+    "static/js/2.ac07e03b.chunk.js",
+    "static/js/main.77804951.chunk.js"
+  ]
+}
